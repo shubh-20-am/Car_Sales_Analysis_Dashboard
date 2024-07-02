@@ -30,6 +30,10 @@ EDA involved exploring the data to answer key questions such as :
 2. Has there been any increase in no. of cars being purchased.
 3. Which is the best performing city in terms of cars sold.
 
+### Data Visualization
+![Screenshot 2024-07-02 221119](https://github.com/shubh-20-am/Car_Sales_Analysis_Dashboard/assets/141903981/84370531-f3d9-4748-bd85-7c2fccde4658)
+
+
 ### Results/Findings
 
 The analysis results are summarised as follows : 
