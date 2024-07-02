@@ -1,11 +1,12 @@
 # Car Sales Analysis
 
+
 ## Table of Contents
--[Project Overview](#project-overview)
 
--[Data Sources](#data-sources)
 
--[Exploratory Data Analysis](#exploratory-data-analysis)
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Data Visualization](#data-visualization)
 
 ### Project Overview
 
